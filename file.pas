@@ -7,7 +7,7 @@ Begin
     i := 2;
     b := 11;
     readln(x);
-    WRITELN('nombre=code gray');
+    WRITELN('nombr=code');
     writeln ('1=1');
     writeln('2=11');
     While i <> x Do
